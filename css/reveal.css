@@ -46,6 +46,10 @@ body {
   line-height: 1;
   background-color: #fff;
   color: #000; }
+p {
+	text-align: left;
+	}
+
 
 html:-webkit-full-screen-ancestor {
   background-color: inherit; }
