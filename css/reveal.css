@@ -50,6 +50,9 @@ p {
 	text-align: left;
 	}
 
+.footer p {
+	text-align:center;
+	}
 
 html:-webkit-full-screen-ancestor {
   background-color: inherit; }
